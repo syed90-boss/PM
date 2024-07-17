@@ -1,13 +1,154 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+.about{
+  max-width: 400px;
+  margin-top: 30px;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.interest-class{
+  max-width: 350px;
+  padding-left: 40px;
+  background-color: #1A1B21;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+}
+
+/* .syed-div{
+  
+} */
+
+.name{
+  color: white;
+  text-align: center;
+}
+
+.des{
+  color: #F3BF99;
+  text-align: center;
+}
+
+.web-anchor{
+  color: #00FFFF;
+  text-decoration: none;
+}
+
+.web{
+  text-align: center;
+}
+
+/* .name-class{
+  background-color: #1A1B21;
+} */
+
+.about-div{
+  max-width: 350px;
+  /* background-color: #1A1B21; */
+  padding-left: 40px;
+  background-color: #1A1B21;
+  margin-bottom: 0px;
+}
+
+.about-h2{
+  color: white;
+}
+
+.about-para{
+  color: white;
+}
+
+.email-img{
+  padding-right: 8px;
+  height: 20px;
+}
+
+.email-bt{
+  font-size: 25px;
+  color: white;
+  background-color: #918E9B;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+  margin-right: 17px;
+}
+
+.linkedin-img{
+  padding-right: 2px;
+  height: 20px;
+}
+
+.linkedin-bt{
+  font-size: 25px;
+  color: white;
+  background-color: #5093E2;
+  border-radius: 10px;
+  padding: 10px 20px;
+  text-align: center;
+  cursor: pointer;
+  border: none;
+}
+
+.interest-h2{
+  color: white;
+}
+
+.interest-para{
+  color: white;
+}
+
+.footer-li{
+  list-style: none;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+/* .footer-li > li{
+   align-items: center; 
+   padding-right: 30px; 
+} */
+
+.footer-li > li:hover{
+  background-color: pink;
+  border-radius: 200px;
+}
+
+.footer-class{
+  /* background-color: #161619; */
+  background-color: yellow;
+  /* max-width: 800px; */
+  /* border-radius: 5px; */
+  width: 85%;
+  margin-bottom: 2px;
+}
+
+.image-class{
+  max-width: 400px;
+  border-radius: 50px;
+  background-color: #1A1B21;
+}
+
+
+
+.container{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #1A1B21;
+  max-width: 600px;
+  margin-left: 550px;
+  margin-right: 550px;  
+  border-radius: 10%;
+}
+
+.name-class{
+  background-color: #1A1B21;
+  
+}
+
+.syed-image{
+  border-radius: 10px;
+  margin-top: 20px;
 }
