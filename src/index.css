@@ -138,8 +138,8 @@ body{
   align-items: center;
   background-color: #1A1B21;
   max-width: 600px;
-  margin-left: 550px;
-  margin-right: 550px;  
+  /* margin-left: 550px;
+  margin-right: 550px;   */
   border-radius: 10%;
 }
 
