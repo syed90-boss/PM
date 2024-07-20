@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/PM/static/css/main.1fb3e79b.css",
+    "main.css": "/PM/static/css/main.c83e3e74.css",
     "main.js": "/PM/static/js/main.e30f9884.js",
     "static/js/453.64512fd7.chunk.js": "/PM/static/js/453.64512fd7.chunk.js",
     "static/media/syed_image.jpg": "/PM/static/media/syed_image.83de0266a1c6777c47ea.jpg",
@@ -10,12 +10,12 @@
     "index.html": "/PM/index.html",
     "static/media/linkedin-brands-solid.svg": "/PM/static/media/linkedin-brands-solid.633a312873229ec1d806b66f9d770fb7.svg",
     "static/media/envelope-solid.svg": "/PM/static/media/envelope-solid.c2efd1aa4f230dc5aecce034913bd3a0.svg",
-    "main.1fb3e79b.css.map": "/PM/static/css/main.1fb3e79b.css.map",
+    "main.c83e3e74.css.map": "/PM/static/css/main.c83e3e74.css.map",
     "main.e30f9884.js.map": "/PM/static/js/main.e30f9884.js.map",
     "453.64512fd7.chunk.js.map": "/PM/static/js/453.64512fd7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fb3e79b.css",
+    "static/css/main.c83e3e74.css",
     "static/js/main.e30f9884.js"
   ]
 }
